@@ -3,4 +3,4 @@
 
 ### I. NỘI DUNG TÌM HIỂU
 
-##### 1. Hiểu được các khái niệm: Nodejs, NPM.
+##### 1. ES6 là gì?
