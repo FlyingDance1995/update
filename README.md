@@ -14,7 +14,8 @@
 
 ####### Sử dụng var:
 
-```function foo() {
+```javascript
+function foo() {
    var x = 10;
    if (true) {
       var x = 20; // x ở đây cũng là x ở trên
@@ -22,4 +23,4 @@
    }
    console.log(x); // vẫn là 20
 }
-
+```
